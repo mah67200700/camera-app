@@ -1,4 +1,4 @@
-﻿// style.css
+﻿
 .screenshot-image {
     width: 150px;
     height: 90px;
@@ -94,8 +94,8 @@ video {
 }
 
 .controls > button {
-    width: 45px;
-    height: 45px;
+    width: 145px;
+    height: 145px;
     text-align: center;
     border-radius: 100%;
     margin: 0 6px;
